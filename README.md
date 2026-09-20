@@ -12,7 +12,7 @@ each project grew, one concept at a time.
 
 - [x] `01-python-basics` — variables, functions, dicts: the Python I need
       before touching the agent code
-- [ ] `02-first-agent` — a math/utility agent using the Claude API and
+- [x] `02-first-agent` — a math/utility agent using the Claude API and
       tool calling
 - [ ] more to come...
 
