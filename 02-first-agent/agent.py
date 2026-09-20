@@ -31,7 +31,12 @@ import anthropic
 load_dotenv()
 
 client = anthropic.Anthropic()  # reads ANTHROPIC_API_KEY from the environment
-MODEL = "claude-sonnet-4-5"
+
+# Model IDs change over time -- check platform.claude.com/docs for current
+# ones. Haiku is the cheapest and is plenty for simple tool calling, so
+# it's a good default while learning. Swap to claude-sonnet-5 for harder
+# reasoning.
+MODEL = "claude-haiku-4-5-20251001"
 
 
 # ---------------------------------------------------------------------------
