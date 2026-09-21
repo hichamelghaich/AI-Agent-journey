@@ -1,0 +1,70 @@
+=== SCANNED DOCUMENT BUNDLE - RECEIVED 12/03/2026 ===
+[OCR CONFIDENCE: MEDIUM - some pages skewed]
+
+--- PAGE 1 ---
+CERTIFICATE OF INCORPORATION
+Companies House, England and Wales
+
+Company Name: MERIDIAN HOLDINGS (UK) LIMITED
+Company Number: 09847213
+Date of Incorporation: 14 March 2016
+Registered Office: Floor 3, 12-14 Bishopsgate, London, EC2N 4AJ
+Company Type: Private company limited by shares
+SIC Code: 64209 - Activities of other holding companies n.e.c.
+
+--- PAGE 2 ---
+REGISTER OF MEMBERS (as at 01 Nov 2026)
+
+Shareholder                          Shares      Class    %
+Karim A. Benali                      4,500       Ord      45.0
+Sofia Lindqvist                      3,000       Ord      30.0
+Cedar Point Nominees Ltd             2,500       Ord      25.0
+
+Note: Cedar Point Nominees Ltd holds on behalf of an underlying
+beneficiary. Declaration of trust provided separately (see p.6).
+
+--- PAGE 3 ---
+DIRECTORS
+1. Karim Ahmed BENALI - appointed 14/03/2016
+   DOB: 22 July 1979    Nationality: British
+   Service address: Floor 3, 12-14 Bishopsgate, London EC2N 4AJ
+
+2. Sofia LINDQVIST - appointed 02/09/2019
+   DOB: 11 January 1985  Nationality: Swedish
+   Service address: Strandvägen 7B, 114 56 Stockholm, Sweden
+
+--- PAGE 4 ---
+PASSPORT - UNITED KINGDOM
+Surname: BENALI
+Given names: KARIM AHMED
+Nationality: BRITISH CITIZEN
+Date of birth: 22 JUL 1979
+Place of birth: MANCHESTER
+Passport No: 533871294
+Date of issue: 09 FEB 2021
+Date of expiry: 09 FEB 2031
+Authority: HMPO
+
+--- PAGE 5 ---
+PROOF OF ADDRESS
+Thames Water - Account Statement
+Mr K Benali
+Flat 22, Wharf House
+18 Narrow Street
+London E14 8DQ
+Statement date: 04 October 2026
+Amount due: £84.30
+
+--- PAGE 6 ---
+DECLARATION OF TRUST (extract)
+Cedar Point Nominees Limited holds 2,500 ordinary shares in
+Meridian Holdings (UK) Limited as bare nominee for and on behalf
+of Mr Dmitri VOLKOV, born 3 June 1971, of Limassol, Cyprus.
+
+--- PAGE 7 ---
+SOURCE OF FUNDS STATEMENT (client-completed form)
+"Funds derive from sale of previous business (Benali Logistics
+Ltd, sold 2015 for approx £2.1m) and ongoing consultancy income.
+Also some family money from overseas."
+
+--- END OF BUNDLE ---
